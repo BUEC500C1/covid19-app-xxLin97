@@ -10,7 +10,7 @@ npm start
 "
 Scan QR code then u can change lines in App.js, e.g. <Text>Hello World!</Text>.
 Then on simulator screen u see the screenshot below.
-![Image text]()
+![Image text](https://github.com/BUEC500C1/covid19-app-xxLin97/blob/master/WechatIMG8.jpeg)
 Step 3: Develop use case to display a map
 
 Step 4: Excercise COVID-19 API
